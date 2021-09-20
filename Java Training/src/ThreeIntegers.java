@@ -13,7 +13,5 @@ public class ThreeIntegers {
 	if (b>a && c>b)
 	{
 		System.out.println("True");}
-	
-			System.out.println("false");
-}
+	}
 }
