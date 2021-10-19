@@ -1,4 +1,4 @@
-package com.evoke.Importpaclibraries;
+package com.evoke.paclibraries;
 import static java.lang.System.*;
 public class StaticImportExample 
 {

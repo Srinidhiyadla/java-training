@@ -1,4 +1,4 @@
-package com.evoke.Importpaclibraries;
+package com.evoke.paclibraries;
 import java.util.Scanner;
 public class Sumoftwonumbers {
 
