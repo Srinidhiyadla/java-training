@@ -8,6 +8,8 @@ public class ForEachExample {
 		System.out.println(i);
 	}
 
+	
+	
 	}
 
 }
