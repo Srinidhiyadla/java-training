@@ -16,7 +16,11 @@ public class Array {
 		{
 			System.out.println("elements of index" +i+ " is " +arr[i]);
 		}
-
+	
 	}
-
 }
+
+
+	
+	
+	
