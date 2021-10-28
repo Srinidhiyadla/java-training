@@ -12,22 +12,22 @@ public class SwitchCaseExample {
 		break;
 		case 1:
 			System.out.println("its a Monday");
-			break;
+		
 		case 2:
 			System.out.println("its a Tuesday");
-			break;
+			
 		case 3:
 			System.out.println("its a wednesday");
-			break;
+		//	break;
 		case 4:
 			System.out.println("its a Thursday");
-			break;
+			//break;
 		case 5:
 			System.out.println("its a Friday");
-			break;	
+			//break;	
 		case 6:
 			System.out.println("its a Saturday");
-			break;	
+		//	break;	
 		
 		}
 
